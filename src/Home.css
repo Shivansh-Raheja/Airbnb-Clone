@@ -1,0 +1,21 @@
+.home__section2 {
+  display: flex;
+  padding: 30px;
+}
+
+.Line__1>h1 {
+  text-align: center;
+  margin-top: 2.5%;
+  color: black;
+}
+
+.Line__2>h1 {
+  text-align: center;
+  margin-top: 1%;
+  color: black;
+}
+
+.home__section {
+  display: flex;
+  padding: 30px;
+}
